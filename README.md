@@ -1,14 +1,14 @@
 # Programacion
 Aqui se mostraria todos los proyectos que realize a lo largo de todo el curso 20204/2025
 # UT1 - Introducción a la programación.
-  ## Informática y ordenadores. 
-  ## Sistema informático. 
-  ## Ingeniería del software. 
-  ## Algoritmos + E. Datos = Programas. 
-  ## Lenguajes de programación. 
-  ## Procesadores de lenguaje. 
-  ## Herramientas de desarrollo. 
-  ## Paradigmas de programación. 
+  ### Informática y ordenadores. 
+  ### Sistema informático. 
+  ### Ingeniería del software. 
+  ### Algoritmos + E. Datos = Programas. 
+  ### Lenguajes de programación. 
+  ### Procesadores de lenguaje. 
+  ### Herramientas de desarrollo. 
+  ### Paradigmas de programación. 
   
 # UT2 - Identificación elementos de un programa informático.
 # UT3 - Introducción a la orientación a objetos. Clases String y Math.
